@@ -58,7 +58,7 @@ Em vez de apenas exibir métricas, o InsightX foi projetado para resolver proble
 
 ## 3. Funcionalidades em Destaque
 
-- ** dashboards Multipage**: Navegação intuitiva por KPIs, funil de vendas, análise de produtos e comportamento do cliente.
+- **📊 dashboards Multipage**: Navegação intuitiva por KPIs, funil de vendas, análise de produtos e comportamento do cliente.
 - **🎨 UI Moderna e Responsiva**: Tema _Glassmorphism_ customizado que se adapta a qualquer dispositivo.
 - **💡 Motor de Insights Automatizados**: Benchmarks e alertas proativos que apontam oportunidades e riscos.
 - **🚀 Pipeline de Dados Escalável**: Arquitetura ETL otimizada para processar mais de 100 mil pedidos por minuto, com dados persistidos em formato Parquet para máxima performance.
