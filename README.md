@@ -127,7 +127,7 @@ Estou aberto a oportunidades de colaboração, discussões sobre o projeto e dem
 *   **LinkedIn**: [/brunomendesdeveloper](https://linkedin.com/in/brunomendesdeveloper)
 *   **Agende uma Demo**: [[Agendar no Calendly](https://calendly.com/brunomendessj/30min)]
 *   **GitHub**: [/mnds-brn001](https://github.com/mnds-brn001)
-*   [/Saiba Mais](https://insight-expert.carrd.co/)
+*   [Saiba Mais](https://insight-expert.carrd.co/)
 ---
 
 ## 7. Licença de Uso
