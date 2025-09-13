@@ -132,7 +132,7 @@ Estou aberto a oportunidades de colaboração, discussões sobre o projeto e dem
 
 ## 7. Licença de Uso
 
-**Copyright (c) 2024 InsightX Analytics.**
+**Copyright (c) 2025 Insight Expert Analytics.**
 
 Este é um projeto de código-fonte fechado (proprietary). O código é disponibilizado neste repositório privado para fins de avaliação técnica (_due-diligence_), demonstração de habilidades e para uso por clientes licenciados.
 
