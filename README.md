@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# InsightX · E-commerce Analytics Dashboard
+# Insight Expert · E-commerce Analytics Dashboard
 
 ### **Transformando dados brutos de e-commerce em inteligência acionável.**
 
@@ -33,9 +33,9 @@ Exemplo: ![InsightX Dashboard](URL_DO_SEU_GIF_OU_IMAGEM.gif)
 
 <br>
 
-## 1. A Vantagem InsightX: De Dados a Decisões Estratégicas
+## 1. A Vantagem Insight Expert: De Dados a Decisões Estratégicas
 
-O **InsightX** é uma plataforma de Business Intelligence, construída em Python e Streamlit, projetada para capacitar equipes de produto, growth e BI com insights rápidos e profundos sobre suas operações de e-commerce. Em um mercado onde a velocidade e a precisão da informação definem os vencedores, o InsightX oferece uma visão 360° do negócio, da aquisição de clientes à análise de sentimentos, tudo em um painel interativo e intuitivo.
+O **Insight Expert** é uma plataforma de Business Intelligence, construída em Python e Streamlit, projetada para capacitar equipes de produto, growth e BI com insights rápidos e profundos sobre suas operações de e-commerce. Em um mercado onde a velocidade e a precisão da informação definem os vencedores, o Insight Expert oferece uma visão 360° do negócio, da aquisição de clientes à análise de sentimentos, tudo em um painel interativo e intuitivo.
 
 Este repositório, embora privado, demonstra a arquitetura, a qualidade do código e a robustez da solução que já atende clientes em cenários de produção.
 
@@ -69,7 +69,7 @@ Em vez de apenas exibir métricas, o InsightX foi projetado para resolver proble
 
 ## 4. Arquitetura e Stack Tecnológica
 
-O InsightX é construído sobre uma base tecnológica moderna, robusta e escalável, projetada para garantir performance e manutenibilidade.
+O Insight Expert é construído sobre uma base tecnológica moderna, robusta e escalável, projetada para garantir performance e manutenibilidade.
 
 ### Arquitetura em Alto Nível
 ```mermaid
@@ -127,7 +127,7 @@ Estou aberto a oportunidades de colaboração, discussões sobre o projeto e dem
 *   **LinkedIn**: [/brunomendesdeveloper](https://linkedin.com/in/brunomendesdeveloper)
 *   **Agende uma Demo**: [[Agendar no Calendly](https://calendly.com/brunomendessj/30min)]
 *   **GitHub**: [/mnds-brn001](https://github.com/mnds-brn001)
-
+*   [/Saiba Mais](https://insight-expert.carrd.co/)
 ---
 
 ## 7. Licença de Uso
